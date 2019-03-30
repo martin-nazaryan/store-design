@@ -1,0 +1,46 @@
+#root {
+
+}
+
+.nmc-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+
+.nmc-top-alert {
+    font-size: 11pt;
+}
+
+.nmc-header {
+    width: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 50px 20px 100px;
+}
+
+.nmc-logo {
+    height: 50px;
+}
+
+.nmc-logo-text {
+    font-size: 13pt;
+}
+
+.nmc-article.nmc-grey {
+    background-color: #eae7e8;
+}
+
+.nmc-article {
+    width: 700px;
+}
+
+.nmc-article img {
+    width: 700px;
+}
+
+.nmc-article .nmc-text {
+    width: 100%;
+}
